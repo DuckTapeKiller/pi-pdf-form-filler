@@ -1,0 +1,262 @@
+{
+  "schema_version": "1.0",
+  "profile": {
+    "title": "Ms",
+    "first_name": "Eleanor",
+    "middle_names": "Mae",
+    "last_name": "Vance",
+    "full_name": "Eleanor Mae Vance",
+    "preferred_name": "Elle",
+    "date_of_birth": "15/03/1995",
+    "nationality": "British",
+    "right_to_work": "Citizen",
+    "notice_period": "One Month"
+  },
+  "contact": {
+    "email": "eleanor.vance@fakemail.com",
+    "phone": "07700 900123"
+  },
+  "address_current": {
+    "line1": "45 Mockingbird Lane",
+    "line2": "Apt 10",
+    "city": "Springfield",
+    "county": "Illinois",
+    "postcode": "62704",
+    "country": "USA"
+  },
+  "employment_history": [
+    {
+      "employer": "Nexus Tech Solutions",
+      "job_title": "Senior Data Analyst",
+      "start_date": "2024-01-20",
+      "end_date": null,
+      "salary": "£65,000",
+      "reason_for_leaving": "Current role is a great fit"
+    },
+    {
+      "employer": "Global Forwarding Inc.",
+      "job_title": "Logistics Coordinator",
+      "start_date": "2023-08-16",
+      "end_date": "2024-01-20",
+      "salary": "£42,000",
+      "reason_for_leaving": "Promotion opportunity elsewhere"
+    },
+    {
+      "employer": "Aethel Consulting",
+      "job_title": "Junior Project Manager",
+      "start_date": "2022-05-01",
+      "end_date": "2023-08-15",
+      "salary": "£35,000",
+      "reason_for_leaving": "Completion of contract term"
+    },
+    {
+      "employer": "Creative Media Agency",
+      "job_title": "Content Specialist",
+      "start_date": "2021-12-02",
+      "end_date": "2022-05-01",
+      "salary": "£28,000",
+      "reason_for_leaving": "Seeking more technical challenges"
+    },
+    {
+      "employer": "Local Retail Chains Ltd.",
+      "job_title": "Sales Associate",
+      "start_date": "2020-08-16",
+      "end_date": "2021-11-30",
+      "salary": "£18,000",
+      "reason_for_leaving": "Career shift towards corporate roles"
+    },
+    {
+      "employer": "Financier Corp",
+      "job_title": "Operations Support",
+      "start_date": "2018-12-01",
+      "end_date": "2020-08-15",
+      "salary": "£30,000",
+      "reason_for_leaving": "Restructuring of the department"
+    },
+    {
+      "employer": "Service Provider Group",
+      "job_title": "Customer Service Representative",
+      "start_date": "2018-09-01",
+      "end_date": "2018-11-30",
+      "salary": "£16,000",
+      "reason_for_leaving": "Shorter contract concluded"
+    },
+    {
+      "employer": "Creative Studio X",
+      "job_title": "Freelance Designer",
+      "start_date": "2018-01-05",
+      "end_date": "2018-08-31",
+      "salary": "£5,000",
+      "reason_for_leaving": "Project conclusion"
+    },
+    {
+      "gaps": "Career Break/Personal Development",
+      "job_title": "Travel and Skill Immersion",
+      "start_date": "2017-12-13",
+      "end_date": "2018-01-04",
+      "salary": "",
+      "reason_for_leaving": ""
+    },
+    {
+      "employer": "Tech Innovations LLC",
+      "job_title": "Digital Marketing Consultant",
+      "start_date": "2011-08-29",
+      "end_date": "2017-12-12",
+      "salary": "£45,000",
+      "reason_for_leaving": "Company acquisition"
+    },
+    {
+      "gaps": "Academic Study Period",
+      "job_title": "Completed Master's Degree in Economics",
+      "start_date": "2010-11-17",
+      "end_date": "2011-08-28",
+      "salary": "",
+      "reason_for_leaving": ""
+    },
+    {
+      "employer": "Financial Data Hub",
+      "job_title": "Junior Data Entry Specialist",
+      "start_date": "2008-12-02",
+      "end_date": "2010-11-16",
+      "salary": "£12,000",
+      "reason_for_leaving": "Seeking a more challenging role"
+    },
+    {
+      "gaps": "Immigration Break/Study Abroad",
+      "job_title": "Studied in Europe",
+      "start_date": "2007-12-11",
+      "end_date": "2008-12-01",
+      "salary": "",
+      "reason_for_leaving": ""
+    },
+    {
+      "employer": "Daily News Bureau",
+      "job_title": "Research Assistant",
+      "start_date": "2003-02-06",
+      "end_date": "2007-12-10",
+      "salary": "£600",
+      "reason_for_leaving": "Role evolved"
+    }
+  ],
+  "education_history": [
+    {
+      "institution": "University of City Hall",
+      "course": "Master of Business Administration (MBA)",
+      "qualification": "MBA",
+      "grade": "3.8 out of 4.0",
+      "standard": "UK qualification",
+      "start_date": "2017",
+      "end_date": "2019"
+    },
+    {
+      "institution": "State University of America",
+      "course": "Bachelor of Science in Economics",
+      "qualification": "B.S.",
+      "grade": "3.5 out of 4.0",
+      "standard": "International qualification",
+      "start_date": "2002",
+      "end_date": "2007"
+    },
+    {
+      "institution": "Local High School District",
+      "course": "Secondary Education",
+      "qualification": "High School Diploma",
+      "grade": "GPA 3.9/4.0",
+      "standard": "Secondary",
+      "start_date": "1993",
+      "end_date": "1998"
+    }
+  ],
+  "memberships": [
+    {
+      "body": "Professional Data Scientists Guild",
+      "member_since": "2024-01-01"
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. Thomas Reed",
+      "relationship_or_title": "VP of Operations, Nexus Tech Solutions",
+      "address": "New York, NY",
+      "phone": "+1 555-123-4567",
+      "email": "thomas.reed@nexus.com"
+    },
+    {
+      "name": "Sarah Jenkins",
+      "relationship_or_title": "Director of Operations, Global Forwarding Inc.",
+      "address": "Chicago, IL",
+      "phone": "+1 555-987-6543",
+      "email": "sarah.jenkins@gfi.com"
+    }
+  ],
+  "declarations": {
+    "criminal_convictions": "No"
+  },
+  "personal_statements": {
+    "general": "I am an analytical and proactive professional with expertise in data analysis, logistics, content management, and business operations. My career is marked by a commitment to detail, strong problem-solving capabilities, and the ability to adapt across diverse, challenging environments. I excel in both collaborative team settings and independent roles, maintaining clear communication with all stakeholders. I am adept at handling complex information, managing deadlines, and ensuring operational efficiency. I am seeking a dynamic role where I can apply my analytical skills and contribute to organizational success while continuing my professional growth.",
+    "public_sector": "I possess a robust background in data management, project support, and operational excellence gained across various sectors. I prioritize accuracy, accountability, and transparent service delivery, which are core to public sector values. I am proficient in handling sensitive information with discretion and maintaining strict adherence to procedural guidelines. My experience has cultivated strong organizational skills and a dedication to quality service, making me a reliable asset to a public body environment. I am keen to transition these skills into a position where integrity and public benefit are paramount.",
+    "private_sector": "I am a highly results-oriented and adaptable professional with hands-on experience in high-velocity commercial environments, including data, marketing, and project coordination. My background demonstrates an ability to drive efficiency, meet aggressive targets, and deliver high-quality results under pressure. I thrive in evolving business landscapes, quickly mastering new systems and adapting strategies to commercial needs. I am looking for a challenging role within a dynamic private enterprise where my strong work ethic and comprehensive skill set can immediately generate value and support business objectives."
+  },
+  "statement_selection_rules": {
+    "default": "general",
+    "use_public_sector_when": [
+      "local authority",
+      "civil service",
+      "nhs",
+      "education",
+      "charity",
+      "public body"
+    ],
+    "use_private_sector_when": [
+      "commercial",
+      "company",
+      "corporate",
+      "private business",
+      "start-up"
+    ]
+  },
+  "aliases": {
+    "first_name": [
+      "forename",
+      "given name",
+      "first name"
+    ],
+    "last_name": [
+      "surname",
+      "family name"
+    ],
+    "date_of_birth": [
+      "dob",
+      "birth date",
+      "date of birth"
+    ],
+    "phone": [
+      "telephone",
+      "tel no",
+      "mobile",
+      "contact number"
+    ],
+    "notice_period": [
+      "current notice period",
+      "notice",
+      "availability"
+    ],
+    "criminal_convictions": [
+      "criminal record",
+      "unspent convictions",
+      "yes/no?"
+    ]
+  },
+  "format_rules": {
+    "default_date_format": "DD/MM/YYYY",
+    "allow_date_formats": [
+      "DD/MM/YYYY",
+      "YYYY-MM-DD",
+      "MM/YYYY"
+    ],
+    "empty_value_policy": "leave_blank",
+    "current_job_end_date_text": "Present",
+    "employment_order": "most_recent_first",
+    "education_order": "most_recent_first"
+  }
+}

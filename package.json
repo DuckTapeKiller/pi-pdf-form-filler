@@ -1,0 +1,25 @@
+{
+  "name": "pi-pdf-form-filler",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Pi package-quality extension for verified, layout-aware PDF form autofill.",
+  "type": "module",
+  "license": "UNLICENSED",
+  "keywords": [
+    "pi-package",
+    "pi-extension",
+    "pdf",
+    "forms",
+    "autofill"
+  ],
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*",
+    "typebox": "*"
+  }
+}
